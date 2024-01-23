@@ -16,6 +16,8 @@
 		F46EF09C2B5ED92600FB4E40 /* MyStoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EF09B2B5ED92600FB4E40 /* MyStoryTests.swift */; };
 		F46EF0A62B5ED92600FB4E40 /* MyStoryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EF0A52B5ED92600FB4E40 /* MyStoryUITests.swift */; };
 		F46EF0A82B5ED92600FB4E40 /* MyStoryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EF0A72B5ED92600FB4E40 /* MyStoryUITestsLaunchTests.swift */; };
+		F46EF0B52B5F322300FB4E40 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EF0B42B5F322300FB4E40 /* ProfileViewController.swift */; };
+		F46EF0B72B5F329A00FB4E40 /* AboutMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EF0B62B5F329A00FB4E40 /* AboutMeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		F46EF0A12B5ED92600FB4E40 /* MyStoryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyStoryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F46EF0A52B5ED92600FB4E40 /* MyStoryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStoryUITests.swift; sourceTree = "<group>"; };
 		F46EF0A72B5ED92600FB4E40 /* MyStoryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStoryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F46EF0B42B5F322300FB4E40 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		F46EF0B62B5F329A00FB4E40 /* AboutMeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				F46EF0862B5ED91100FB4E40 /* SceneDelegate.swift */,
 				F46EF0882B5ED91100FB4E40 /* ViewController.swift */,
 				F46EF08A2B5ED91100FB4E40 /* Main.storyboard */,
+				F46EF0B62B5F329A00FB4E40 /* AboutMeViewController.swift */,
+				F46EF0B42B5F322300FB4E40 /* ProfileViewController.swift */,
 				F46EF08D2B5ED92400FB4E40 /* Assets.xcassets */,
 				F46EF08F2B5ED92400FB4E40 /* LaunchScreen.storyboard */,
 				F46EF0922B5ED92400FB4E40 /* Info.plist */,
@@ -259,7 +265,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F46EF0892B5ED91100FB4E40 /* ViewController.swift in Sources */,
+				F46EF0B72B5F329A00FB4E40 /* AboutMeViewController.swift in Sources */,
 				F46EF0852B5ED91100FB4E40 /* AppDelegate.swift in Sources */,
+				F46EF0B52B5F322300FB4E40 /* ProfileViewController.swift in Sources */,
 				F46EF0872B5ED91100FB4E40 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
