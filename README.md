@@ -15,10 +15,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/de2b516e24244d0ba24de337551a8efa">
+      <p>App Demo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/de2b516e24244d0ba24de337551a8efa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/de2b516e24244d0ba24de337551a8efa-with-play.gif">
+    </a>
+  </div>
+  
 ## Notes
 
 I was unable to have the simulator reflect the constraints of the app, I spent hours trying to fix this error but was unable to overcome it. 
