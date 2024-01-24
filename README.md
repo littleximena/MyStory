@@ -15,11 +15,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/de2b516e24244d0ba24de337551a8efa">
-      <p>App Demo - Watch Video</p>
+    <a href="https://www.loom.com/share/6972a6bde11c4895a361f0ad6701c50d">
     </a>
-    <a href="https://www.loom.com/share/de2b516e24244d0ba24de337551a8efa">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/de2b516e24244d0ba24de337551a8efa-with-play.gif">
+    <a href="https://www.loom.com/share/6972a6bde11c4895a361f0ad6701c50d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6972a6bde11c4895a361f0ad6701c50d-with-play.gif">
     </a>
   </div>
   
